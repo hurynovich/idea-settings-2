@@ -8,6 +8,5 @@
     <entry key="llm.jcp.analytics.endpoint.url" value="https://api.jetbrains.cloud/analytics/events/push" source="MANAGER" />
     <entry key="feature.suggester.enable.suggesters" value="true" source="SYSTEM" />
     <entry key="jetbrains.security.package-checker.enableNpmTransitiveDependencies" value="false" source="MANAGER" />
-    <entry key="editor.distraction.free.mode" value="true" source="SYSTEM" />
   </component>
 </application>
