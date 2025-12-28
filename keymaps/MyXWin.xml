@@ -5,6 +5,9 @@
   <action id="ActivatePullRequestsToolWindow">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
+  <action id="ChangeSplitOrientation">
+    <keyboard-shortcut first-keystroke="ctrl alt quote" />
+  </action>
   <action id="CloseActiveTab" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -20,13 +23,31 @@
     <keyboard-shortcut first-keystroke="shift ctrl s" />
     <keyboard-shortcut first-keystroke="f8" />
   </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="shift alt quote" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="alt quote" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="alt page_down" />
   </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
   <action id="ToolWindowsGroup">
     <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="shift ctrl alt quote" />
   </action>
 </keymap>
