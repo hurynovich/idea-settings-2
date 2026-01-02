@@ -55,6 +55,9 @@
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="alt page_down" />
   </action>
+  <action id="QuickList.Favorites">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
