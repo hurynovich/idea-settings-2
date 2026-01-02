@@ -35,7 +35,7 @@
     <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="MainMenu">
-    <keyboard-shortcut first-keystroke="alt context_menu" />
+    <keyboard-shortcut first-keystroke="alt released context_menu" />
   </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="alt o" />
