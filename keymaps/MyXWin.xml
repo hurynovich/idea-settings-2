@@ -30,6 +30,9 @@
   <action id="EditorScrollTop">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="w" />
+  </action>
   <action id="Github.PullRequest.Changed.MarkViewed.Toggle">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
     <keyboard-shortcut first-keystroke="f8" />
@@ -56,7 +59,7 @@
     <keyboard-shortcut first-keystroke="alt page_down" />
   </action>
   <action id="QuickList.Favorites">
-    <keyboard-shortcut first-keystroke="alt v" />
+    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="alt l" />
@@ -69,6 +72,9 @@
   </action>
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift ctrl alt quote" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="alt b" />
