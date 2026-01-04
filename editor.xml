@@ -59,7 +59,7 @@
         <entry key="kotlin.compiler.plugins.supertypes" value="true" />
         <entry key="kotlin.lambdas.hints" value="false" />
         <entry key="kotlin.method.chains" value="false" />
-        <entry key="kotlin.parameters.hints" value="true" />
+        <entry key="kotlin.parameters.hints" value="false" />
         <entry key="kotlin.references.types.hints" value="false" />
         <entry key="kotlin.values.hints" value="false" />
         <entry key="open.rewrite.recipe" value="true" />
