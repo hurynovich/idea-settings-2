@@ -25,6 +25,7 @@
         <entry key="js.type.hints#variables.and.fields" value="true" />
         <entry key="kotlin.lambdas.hints#hints.lambda.receivers.parameters" value="false" />
         <entry key="kotlin.lambdas.hints#hints.lambda.return" value="false" />
+        <entry key="kotlin.parameters.hints#hints.parameters.excluded" value="true" />
         <entry key="kotlin.references.types.hints#hints.type.function.parameter" value="false" />
         <entry key="kotlin.references.types.hints#hints.type.function.return" value="false" />
         <entry key="kotlin.references.types.hints#hints.type.property" value="false" />
@@ -58,9 +59,9 @@
         <entry key="kotlin.compiler.plugins.supertypes" value="true" />
         <entry key="kotlin.lambdas.hints" value="false" />
         <entry key="kotlin.method.chains" value="false" />
-        <entry key="kotlin.parameters.hints" value="true" />
+        <entry key="kotlin.parameters.hints" value="false" />
         <entry key="kotlin.references.types.hints" value="false" />
-        <entry key="kotlin.values.hints" value="true" />
+        <entry key="kotlin.values.hints" value="false" />
         <entry key="open.rewrite.recipe" value="true" />
         <entry key="qodana.yaml.inspection.descriptions" value="true" />
         <entry key="sql.column.names.inlay.hints" value="true" />
@@ -76,5 +77,9 @@
   </component>
   <component name="InlineCompletionOnboarding">
     <option name="onboardingFinished" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
