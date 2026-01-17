@@ -26,6 +26,14 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="Compare.SameVersion" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
   <action id="EditorScrollBottom">
@@ -37,6 +45,8 @@
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="w" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="Frontend.ChangesView.ShowDiff" />
   <action id="Github.PullRequest.Changed.MarkViewed.Toggle">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
     <keyboard-shortcut first-keystroke="f8" />
@@ -65,6 +75,9 @@
   <action id="QuickList.Favorites">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="Terminal.CloseSession" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
@@ -80,7 +93,9 @@
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="openAssertEqualsDiff" />
 </keymap>
