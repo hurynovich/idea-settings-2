@@ -28,7 +28,11 @@
   </action>
   <action id="Compare.SameVersion" />
   <action id="CompareTwoFiles" />
+  <action id="Compile" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
