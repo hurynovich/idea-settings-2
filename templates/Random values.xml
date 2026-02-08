@@ -1,0 +1,8 @@
+<templateSet group="Random values">
+  <template name="int-rnd" value="$RND$" description="Generates random integer" toReformat="false" toShortenFQNames="true">
+    <variable name="RND" expression="groovyScript(&quot;new Random().nextInt(1000000)&quot;)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
