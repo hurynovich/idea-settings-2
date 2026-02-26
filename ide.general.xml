@@ -4,5 +4,6 @@
     <entry key="ide.experimental.ui" value="true" source="SYSTEM" />
     <entry key="feature.suggester.enable.suggesters" value="true" source="SYSTEM" />
     <entry key="maven.packagesearch.enabled" value="false" source="MANAGER" />
+    <entry key="switched.from.classic.to.islands" value="false" source="SYSTEM" />
   </component>
 </application>
